@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({ darkMode, setDarkMode }) => {
             <Calculator className="w-4 h-4 md:w-5 md:h-5" />
           </div>
           <span className="font-bold text-base md:text-lg tracking-tight text-foreground whitespace-nowrap">
-            A/B calculator
+            AB Simulator
           </span>
         </div>
 
